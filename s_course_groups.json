@@ -1,0 +1,78 @@
+{
+    "Group 1": [
+        "MTH411 - Fields and Galois Theory",
+        "BIO416/CHM415 - Biophysical Chemistry",
+        "ECS311 - Solid Earth Geophysics",
+        "BIO315 - Molecular Plant Physiology",
+        "PHY331 - Electronics (Theory)"
+    ],
+    "Group 2": [
+        "MTH 412 - Functional Analysis",
+        "BIO435 - Infection biology",
+        "MTH313 - Topology",
+        "CHM413 - Bioinorganic Chemistry",
+        "CHM331 - Solid State Chemistry"
+    ],
+    "Group 3": [
+        "BIO414 - Neurobiology",
+        "BIO431/CHM431 - Fluorescence in Biology",
+        "PHY 414 - Astrophysics"
+    ],
+    "Group 4": [
+        "BIO412 - Animal Developmental Biology",
+        "ECS411 - Atmospheric thermodynamics and Cloud physics",
+        "PHY417 - Computational Methods in Physics",
+        "PHY 314 - Mathematical Methods in Physics"
+    ],
+    "Group 5": [
+        "CHM315 - Forensic Science",
+        "BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I",
+        "CHM432/PHY432 - Materials Science"
+    ],
+    "Group 6": [
+        "BIO339/CHM332 - Separation Science and Techniques",
+        "NKN - Quantum Field Theory",
+        "MTH314 - Linear Algebra"
+    ],
+    "Group 7": [
+        "BIO318 - Genetics",
+        "PHY413 - Atomic and Molecular Physics",
+        "MTH331 - Elementary Number Theory",
+        "BIO433 - Plant Stress Biology for Sustainable Agriculture",
+        "CHM411 - Molecular Symmetry and Spectroscopy",
+        "CHM311 - Quantum Chemistry I",
+        "PHY335 - Electronics (Experimental)"
+    ],
+    "Group 8": [
+        "Semester Project",
+        "MTH311 - Group Theory",
+        "CHM313 - Main Group Chemistry",
+        "PHY312 - Electrodynamics",
+        "BIO317 - Advanced Ecology"
+    ],
+    "Group 9": [
+        "MTH415 - Differential Forms in Euclidean Spaces",
+        "BIO313 - Evolution",
+        "PHY415 - Advanced Physics Lab III",
+        "BIO413 - Big Data in Biology",
+        "ECS 412 - Advanced Mineral Science",
+        "CHM312 - Physical Organic Chemistry",
+        "MTH312 - Real Analysis",
+        "CHM 414 - Transition Metal Chemistry"
+    ],
+    "Group 10": [
+        "MTH414 - Ordinary Differential Equations",
+        "BIO312 - Biochemistry",
+        "PHY416 - Experimental Methods in Physics",
+        "BIO341 - Biophysics",
+        "CHM433 - Organic spectroscopy",
+        "PHY313 - Quantum Mechanics -I"
+    ],
+    "Group 11": [
+        "MTH413 - Introduction to Algebraic Topology",
+        "BIO311 - Introductory Immunology",
+        "CHM416/PHY411 - Advanced Statistical Mechanics",
+        "PHY311 - Classical Mechanics",
+        "CHM412 - Medicinal Chemistry"
+    ]
+}

@@ -50,45 +50,72 @@ excluded_courses = {"BIO339/639", "BIO416/716"}
 # Create a list to store all student objects
 student_objects = []
 
-# Process students and their courses
+# Iterate over each email and corresponding course choices
 for email, course_string in zip(emails, choices):
-    # Split, clean, and filter courses
-    raw_courses = map(str.strip, course_string.split(","))
-    course_list = [course for course in raw_courses if course not in excluded_courses]
+    # Split the course string into individual courses
+    raw_courses = course_string.split(",")
+    
+    # Clean and filter the courses, removing extra spaces and excluded courses
+    course_list = []
+    for course in raw_courses:
+        cleaned_course = course.strip()  # Remove leading and trailing spaces
+        if cleaned_course not in excluded_courses:  # Exclude certain courses
+            course_list.append(cleaned_course)
 
-    # Create Student object and add to the list
+    # Create a new Student object and add it to the list
     student = Student(email, course_list)
     student_objects.append(student)
 
-# Count total students enrolled in each course
+# Count the total number of students enrolled in each course
 course_counts = {}
 for student in student_objects:
     for course in student.course_list:
-        course_counts[course] = course_counts.get(course, 0) + 1
+        if course not in course_counts:
+            course_counts[course] = 0
+        course_counts[course] += 1  # Increment the count for this course
+
+# Generate unique indices for courses
+course_index = {}
+current_index = 1
+
+for course in course_counts.keys():
+    course_index[course] = current_index
+    current_index += 1
 
 # Analyze relationships between courses
-unique_courses = set(course_counts.keys())
-course_relationships = {}
-
-for course in unique_courses:
-    related_courses = {
-        other_course: sum(
+relationships = {}
+for course in course_counts.keys():
+    related_courses = {}
+    for other_course in course_counts.keys():
+        if other_course == course:
+            continue
+        
+        # Count co-selection
+        co_selection_count = sum(
             course in student.course_list and other_course in student.course_list
             for student in student_objects
         )
-        for other_course in unique_courses if other_course != course
-    }
-    course_relationships[course] = related_courses
+        related_courses[other_course] = co_selection_count
 
-# Prepare the final output
-output = {
+    relationships[course] = related_courses
+
+# Prepare data for JSON output
+course_relationships = []
+for course_name, total_students in course_counts.items():
+    course_relationships.append({
+        "name": course_name,
+        "index": course_index[course_name],
+        "total_students": total_students,
+        "related_courses": relationships[course_name]
+    })
+
+output_data = {
     "course_counts": course_counts,
-    "course_relationships": course_relationships,
+    "course_relationships": course_relationships
 }
 
-# Save the output to a JSON file
-OUTPUT_FILE = "s_course_interrelationships.json"
-with open(OUTPUT_FILE, "w", encoding='utf-8') as file:
-    json.dump(output, file, indent=4)
+# Write the output to a JSON file
+with open("s_course_relationships.json", "w", encoding="utf-8") as f:
+    json.dump(output_data, f, indent=4)
 
-print(f"Analysis saved to {OUTPUT_FILE}")
+print("Course relationships saved to course_relationships.json.")
