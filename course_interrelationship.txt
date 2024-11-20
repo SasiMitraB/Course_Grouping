@@ -1,0 +1,1009 @@
+Output dump from forming_course_data.py:
+
+'BIO412 - Animal Developmental Biology': 1,
+ 'BIO413 - Big Data in Biology': 1,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'BIO435 - Infection biology': 1,
+ 'CHM315 - Forensic Science': 2,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'MTH 412 - Functional Analysis': 1,
+ 'MTH311 - Group Theory': 12,
+ 'MTH312 - Real Analysis': 12,
+ 'MTH313 - Topology': 12,
+ 'MTH314 - Linear Algebra': 13,
+ 'MTH411 - Fields and Galois Theory': 1,
+ 'MTH413 - Introduction to Algebraic Topology': 1,
+ 'MTH414 - Ordinary Differential Equations': 1,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 1,
+ 'PHY 314 - Mathematical Methods in Physics': 3,
+ 'PHY 414 - Astrophysics': 1,
+ 'PHY311 - Classical Mechanics': 4,
+ 'PHY312 - Electrodynamics': 3,
+ 'PHY313 - Quantum Mechanics -I': 3,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'Semester Project': 1}
+
+
+PHY413 - Atomic and Molecular Physics
+14
+{'BIO341 - Biophysics': 3,
+ 'BIO414 - Neurobiology': 1,
+ 'CHM315 - Forensic Science': 1,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 17,
+ 'MTH314 - Linear Algebra': 1,
+ 'NKN - Quantum Field Theory': 8,
+ 'PHY 414 - Astrophysics': 1,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'PHY415 - Advanced Physics Lab III': 10,
+ 'PHY416 - Experimental Methods in Physics': 10,
+ 'PHY417 - Computational Methods in Physics': 17,
+ 'Semester Project': 10}
+
+
+CHM433 - Organic spectroscopy
+15
+{'BIO312 - Biochemistry': 1,
+ 'BIO318 - Genetics': 2,
+ 'BIO339/CHM332 - Separation Science and Techniques': 1,
+ 'BIO412 - Animal Developmental Biology': 2,
+ 'BIO413 - Big Data in Biology': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 2,
+ 'BIO431/CHM431 - Fluorescence in Biology': 3,
+ 'CHM 414 - Transition Metal Chemistry': 8,
+ 'CHM311 - Quantum Chemistry I': 2,
+ 'CHM312 - Physical Organic Chemistry': 1,
+ 'CHM315 - Forensic Science': 1,
+ 'CHM411 - Molecular Symmetry and Spectroscopy': 6,
+ 'CHM412 - Medicinal Chemistry': 7,
+ 'CHM413 - Bioinorganic Chemistry': 9,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 1,
+ 'CHM432/PHY432 - Materials Science': 5,
+ 'ECS 412 - Advanced Mineral Science': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'PHY312 - Electrodynamics': 1,
+ 'PHY417 - Computational Methods in Physics': 1,
+ 'Semester Project': 6}
+
+
+PHY335 - Electronics (Experimental)
+16
+{'CHM311 - Quantum Chemistry I': 1,
+ 'CHM312 - Physical Organic Chemistry': 1,
+ 'CHM313 - Main Group Chemistry': 1,
+ 'CHM315 - Forensic Science': 2,
+ 'CHM331 - Solid State Chemistry': 1,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 1,
+ 'CHM432/PHY432 - Materials Science': 1,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'MTH311 - Group Theory': 1,
+ 'MTH312 - Real Analysis': 1,
+ 'MTH313 - Topology': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'PHY 314 - Mathematical Methods in Physics': 4,
+ 'PHY 414 - Astrophysics': 3,
+ 'PHY311 - Classical Mechanics': 5,
+ 'PHY312 - Electrodynamics': 6,
+ 'PHY313 - Quantum Mechanics -I': 6,
+ 'PHY331 - Electronics (Theory)': 4,
+ 'PHY415 - Advanced Physics Lab III': 1,
+ 'PHY416 - Experimental Methods in Physics': 1,
+ 'PHY417 - Computational Methods in Physics': 1}
+
+
+PHY416 - Experimental Methods in Physics
+17
+{'BIO414 - Neurobiology': 1,
+ 'CHM315 - Forensic Science': 4,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 14,
+ 'CHM432/PHY432 - Materials Science': 1,
+ 'ECS311 - Solid Earth Geophysics': 2,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 2,
+ 'NKN - Quantum Field Theory': 6,
+ 'PHY 414 - Astrophysics': 4,
+ 'PHY331 - Electronics (Theory)': 2,
+ 'PHY335 - Electronics (Experimental)': 1,
+ 'PHY413 - Atomic and Molecular Physics': 10,
+ 'PHY415 - Advanced Physics Lab III': 11,
+ 'PHY417 - Computational Methods in Physics': 14,
+ 'Semester Project': 8}
+
+
+PHY417 - Computational Methods in Physics
+18
+{'BIO341 - Biophysics': 3,
+ 'BIO414 - Neurobiology': 1,
+ 'CHM315 - Forensic Science': 4,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 25,
+ 'CHM432/PHY432 - Materials Science': 1,
+ 'CHM433 - Organic spectroscopy': 1,
+ 'ECS 412 - Advanced Mineral Science': 1,
+ 'ECS311 - Solid Earth Geophysics': 2,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 2,
+ 'MTH 412 - Functional Analysis': 2,
+ 'MTH311 - Group Theory': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'MTH414 - Ordinary Differential Equations': 2,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 1,
+ 'NKN - Quantum Field Theory': 12,
+ 'PHY 414 - Astrophysics': 2,
+ 'PHY312 - Electrodynamics': 1,
+ 'PHY331 - Electronics (Theory)': 3,
+ 'PHY335 - Electronics (Experimental)': 1,
+ 'PHY413 - Atomic and Molecular Physics': 17,
+ 'PHY415 - Advanced Physics Lab III': 13,
+ 'PHY416 - Experimental Methods in Physics': 14,
+ 'Semester Project': 15}
+
+
+BIO315 - Molecular Plant Physiology
+19
+{'BIO311 - Introductory Immunology': 20,
+ 'BIO312 - Biochemistry': 21,
+ 'BIO313 - Evolution': 2,
+ 'BIO318 - Genetics': 21,
+ 'BIO339/CHM332 - Separation Science and Techniques': 16,
+ 'BIO412 - Animal Developmental Biology': 1,
+ 'BIO413 - Big Data in Biology': 1,
+ 'BIO431/CHM431 - Fluorescence in Biology': 1,
+ 'BIO435 - Infection biology': 1,
+ 'CHM312 - Physical Organic Chemistry': 1,
+ 'CHM315 - Forensic Science': 18,
+ 'MTH312 - Real Analysis': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'Semester Project': 1}
+
+
+BIO341 - Biophysics
+20
+{'BIO312 - Biochemistry': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 1,
+ 'BIO412 - Animal Developmental Biology': 9,
+ 'BIO413 - Big Data in Biology': 7,
+ 'BIO416/CHM415 - Biophysical Chemistry': 4,
+ 'BIO431/CHM431 - Fluorescence in Biology': 7,
+ 'BIO433 - Plant Stress Biology for Sustainable Agriculture': 3,
+ 'BIO435 - Infection biology': 7,
+ 'CHM315 - Forensic Science': 1,
+ 'CHM412 - Medicinal Chemistry': 4,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 3,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'NKN - Quantum Field Theory': 1,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'PHY413 - Atomic and Molecular Physics': 3,
+ 'PHY417 - Computational Methods in Physics': 3,
+ 'Semester Project': 6}
+
+
+BIO317 - Advanced Ecology
+21
+{'BIO311 - Introductory Immunology': 6,
+ 'BIO312 - Biochemistry': 10,
+ 'BIO313 - Evolution': 4,
+ 'BIO318 - Genetics': 9,
+ 'BIO339/CHM332 - Separation Science and Techniques': 6,
+ 'BIO412 - Animal Developmental Biology': 2,
+ 'BIO413 - Big Data in Biology': 2,
+ 'BIO431/CHM431 - Fluorescence in Biology': 2,
+ 'BIO433 - Plant Stress Biology for Sustainable Agriculture': 1,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'BIO435 - Infection biology': 2,
+ 'CHM315 - Forensic Science': 5,
+ 'ECS311 - Solid Earth Geophysics': 5,
+ 'MTH311 - Group Theory': 1,
+ 'MTH312 - Real Analysis': 1,
+ 'MTH313 - Topology': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'MTH331 - Elementary Number Theory': 1}
+
+
+BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I
+22
+{'BIO311 - Introductory Immunology': 1,
+ 'BIO312 - Biochemistry': 1,
+ 'BIO317 - Advanced Ecology': 1,
+ 'BIO318 - Genetics': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 1,
+ 'BIO412 - Animal Developmental Biology': 1,
+ 'BIO413 - Big Data in Biology': 2,
+ 'BIO414 - Neurobiology': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 1,
+ 'BIO431/CHM431 - Fluorescence in Biology': 2,
+ 'BIO433 - Plant Stress Biology for Sustainable Agriculture': 1,
+ 'BIO435 - Infection biology': 2,
+ 'CHM312 - Physical Organic Chemistry': 1,
+ 'CHM315 - Forensic Science': 2,
+ 'CHM411 - Molecular Symmetry and Spectroscopy': 1,
+ 'CHM412 - Medicinal Chemistry': 1,
+ 'CHM413 - Bioinorganic Chemistry': 1,
+ 'CHM432/PHY432 - Materials Science': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 2,
+ 'MTH 412 - Functional Analysis': 2,
+ 'MTH311 - Group Theory': 1,
+ 'MTH312 - Real Analysis': 1,
+ 'MTH313 - Topology': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'MTH411 - Fields and Galois Theory': 2,
+ 'MTH413 - Introduction to Algebraic Topology': 2,
+ 'MTH414 - Ordinary Differential Equations': 2,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 1,
+ 'Semester Project': 2}
+
+
+CHM432/PHY432 - Materials Science
+23
+{'BIO339/CHM332 - Separation Science and Techniques': 2,
+ 'BIO416/CHM415 - Biophysical Chemistry': 2,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'CHM 414 - Transition Metal Chemistry': 9,
+ 'CHM311 - Quantum Chemistry I': 2,
+ 'CHM312 - Physical Organic Chemistry': 1,
+ 'CHM315 - Forensic Science': 1,
+ 'CHM411 - Molecular Symmetry and Spectroscopy': 8,
+ 'CHM412 - Medicinal Chemistry': 5,
+ 'CHM413 - Bioinorganic Chemistry': 7,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 1,
+ 'CHM433 - Organic spectroscopy': 5,
+ 'ECS 412 - Advanced Mineral Science': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'PHY335 - Electronics (Experimental)': 1,
+ 'PHY415 - Advanced Physics Lab III': 1,
+ 'PHY416 - Experimental Methods in Physics': 1,
+ 'PHY417 - Computational Methods in Physics': 1,
+ 'Semester Project': 5}
+
+
+MTH413 - Introduction to Algebraic Topology
+24
+{'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'CHM315 - Forensic Science': 1,
+ 'MTH 412 - Functional Analysis': 8,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'MTH411 - Fields and Galois Theory': 7,
+ 'MTH414 - Ordinary Differential Equations': 8,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 7,
+ 'Semester Project': 5}
+
+
+MTH411 - Fields and Galois Theory
+25
+{'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'MTH 412 - Functional Analysis': 7,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'MTH413 - Introduction to Algebraic Topology': 7,
+ 'MTH414 - Ordinary Differential Equations': 7,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 6,
+ 'Semester Project': 4}
+
+
+PHY 314 - Mathematical Methods in Physics
+26
+{'BIO312 - Biochemistry': 1,
+ 'BIO318 - Genetics': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 1,
+ 'CHM315 - Forensic Science': 4,
+ 'ECS311 - Solid Earth Geophysics': 6,
+ 'MTH311 - Group Theory': 3,
+ 'MTH312 - Real Analysis': 3,
+ 'MTH313 - Topology': 1,
+ 'MTH314 - Linear Algebra': 11,
+ 'MTH331 - Elementary Number Theory': 3,
+ 'PHY 414 - Astrophysics': 8,
+ 'PHY311 - Classical Mechanics': 21,
+ 'PHY312 - Electrodynamics': 21,
+ 'PHY313 - Quantum Mechanics -I': 19,
+ 'PHY331 - Electronics (Theory)': 3,
+ 'PHY335 - Electronics (Experimental)': 4}
+
+
+Semester Project
+27
+{'BIO311 - Introductory Immunology': 2,
+ 'BIO312 - Biochemistry': 4,
+ 'BIO315 - Molecular Plant Physiology': 1,
+ 'BIO318 - Genetics': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 5,
+ 'BIO341 - Biophysics': 6,
+ 'BIO412 - Animal Developmental Biology': 11,
+ 'BIO413 - Big Data in Biology': 12,
+ 'BIO414 - Neurobiology': 2,
+ 'BIO416/CHM415 - Biophysical Chemistry': 4,
+ 'BIO431/CHM431 - Fluorescence in Biology': 8,
+ 'BIO433 - Plant Stress Biology for Sustainable Agriculture': 3,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'BIO435 - Infection biology': 11,
+ 'CHM 414 - Transition Metal Chemistry': 7,
+ 'CHM311 - Quantum Chemistry I': 2,
+ 'CHM312 - Physical Organic Chemistry': 1,
+ 'CHM315 - Forensic Science': 10,
+ 'CHM411 - Molecular Symmetry and Spectroscopy': 6,
+ 'CHM412 - Medicinal Chemistry': 4,
+ 'CHM413 - Bioinorganic Chemistry': 6,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 14,
+ 'CHM432/PHY432 - Materials Science': 5,
+ 'CHM433 - Organic spectroscopy': 6,
+ 'ECS 412 - Advanced Mineral Science': 3,
+ 'ECS311 - Solid Earth Geophysics': 4,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 6,
+ 'MTH 412 - Functional Analysis': 7,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'MTH411 - Fields and Galois Theory': 4,
+ 'MTH413 - Introduction to Algebraic Topology': 5,
+ 'MTH414 - Ordinary Differential Equations': 8,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 5,
+ 'NKN - Quantum Field Theory': 7,
+ 'PHY 414 - Astrophysics': 3,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'PHY413 - Atomic and Molecular Physics': 10,
+ 'PHY415 - Advanced Physics Lab III': 7,
+ 'PHY416 - Experimental Methods in Physics': 8,
+ 'PHY417 - Computational Methods in Physics': 15}
+
+
+CHM315 - Forensic Science
+28
+{'BIO311 - Introductory Immunology': 47,
+ 'BIO312 - Biochemistry': 58,
+ 'BIO313 - Evolution': 16,
+ 'BIO315 - Molecular Plant Physiology': 18,
+ 'BIO317 - Advanced Ecology': 5,
+ 'BIO318 - Genetics': 51,
+ 'BIO339/CHM332 - Separation Science and Techniques': 52,
+ 'BIO341 - Biophysics': 1,
+ 'BIO412 - Animal Developmental Biology': 10,
+ 'BIO413 - Big Data in Biology': 9,
+ 'BIO414 - Neurobiology': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 1,
+ 'BIO431/CHM431 - Fluorescence in Biology': 6,
+ 'BIO433 - Plant Stress Biology for Sustainable Agriculture': 3,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'BIO435 - Infection biology': 9,
+ 'CHM311 - Quantum Chemistry I': 12,
+ 'CHM312 - Physical Organic Chemistry': 24,
+ 'CHM313 - Main Group Chemistry': 17,
+ 'CHM331 - Solid State Chemistry': 11,
+ 'CHM411 - Molecular Symmetry and Spectroscopy': 1,
+ 'CHM412 - Medicinal Chemistry': 5,
+ 'CHM413 - Bioinorganic Chemistry': 1,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 3,
+ 'CHM432/PHY432 - Materials Science': 1,
+ 'CHM433 - Organic spectroscopy': 1,
+ 'ECS 412 - Advanced Mineral Science': 1,
+ 'ECS311 - Solid Earth Geophysics': 10,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 6,
+ 'MTH 412 - Functional Analysis': 2,
+ 'MTH311 - Group Theory': 3,
+ 'MTH312 - Real Analysis': 4,
+ 'MTH313 - Topology': 3,
+ 'MTH314 - Linear Algebra': 5,
+ 'MTH331 - Elementary Number Theory': 2,
+ 'MTH413 - Introduction to Algebraic Topology': 1,
+ 'MTH414 - Ordinary Differential Equations': 2,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 2,
+ 'NKN - Quantum Field Theory': 1,
+ 'PHY 314 - Mathematical Methods in Physics': 4,
+ 'PHY 414 - Astrophysics': 5,
+ 'PHY311 - Classical Mechanics': 6,
+ 'PHY312 - Electrodynamics': 5,
+ 'PHY313 - Quantum Mechanics -I': 3,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'PHY335 - Electronics (Experimental)': 2,
+ 'PHY413 - Atomic and Molecular Physics': 1,
+ 'PHY415 - Advanced Physics Lab III': 2,
+ 'PHY416 - Experimental Methods in Physics': 4,
+ 'PHY417 - Computational Methods in Physics': 4,
+ 'Semester Project': 10}
+
+
+MTH414 - Ordinary Differential Equations
+29
+{'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'CHM315 - Forensic Science': 2,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 2,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'MTH 412 - Functional Analysis': 10,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'MTH411 - Fields and Galois Theory': 7,
+ 'MTH413 - Introduction to Algebraic Topology': 8,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 8,
+ 'NKN - Quantum Field Theory': 2,
+ 'PHY417 - Computational Methods in Physics': 2,
+ 'Semester Project': 8}
+
+
+PHY331 - Electronics (Theory)
+30
+{'BIO341 - Biophysics': 1,
+ 'CHM315 - Forensic Science': 1,
+ 'CHM331 - Solid State Chemistry': 1,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 3,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'MTH311 - Group Theory': 1,
+ 'MTH312 - Real Analysis': 1,
+ 'MTH313 - Topology': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'NKN - Quantum Field Theory': 1,
+ 'PHY 314 - Mathematical Methods in Physics': 3,
+ 'PHY311 - Classical Mechanics': 4,
+ 'PHY312 - Electrodynamics': 4,
+ 'PHY313 - Quantum Mechanics -I': 4,
+ 'PHY335 - Electronics (Experimental)': 4,
+ 'PHY413 - Atomic and Molecular Physics': 1,
+ 'PHY415 - Advanced Physics Lab III': 2,
+ 'PHY416 - Experimental Methods in Physics': 2,
+ 'PHY417 - Computational Methods in Physics': 3,
+ 'Semester Project': 1}
+
+
+NKN - Quantum Field Theory
+31
+{'BIO341 - Biophysics': 1,
+ 'CHM315 - Forensic Science': 1,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 12,
+ 'MTH 412 - Functional Analysis': 2,
+ 'MTH311 - Group Theory': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'MTH414 - Ordinary Differential Equations': 2,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 1,
+ 'PHY 414 - Astrophysics': 1,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'PHY413 - Atomic and Molecular Physics': 8,
+ 'PHY415 - Advanced Physics Lab III': 7,
+ 'PHY416 - Experimental Methods in Physics': 6,
+ 'PHY417 - Computational Methods in Physics': 12,
+ 'Semester Project': 7}
+
+
+CHM313 - Main Group Chemistry
+32
+{'BIO311 - Introductory Immunology': 3,
+ 'BIO312 - Biochemistry': 9,
+ 'BIO318 - Genetics': 2,
+ 'BIO339/CHM332 - Separation Science and Techniques': 15,
+ 'CHM311 - Quantum Chemistry I': 16,
+ 'CHM312 - Physical Organic Chemistry': 23,
+ 'CHM315 - Forensic Science': 17,
+ 'CHM331 - Solid State Chemistry': 15,
+ 'ECS311 - Solid Earth Geophysics': 4,
+ 'PHY 414 - Astrophysics': 1,
+ 'PHY335 - Electronics (Experimental)': 1}
+
+
+BIO312 - Biochemistry
+33
+{'BIO311 - Introductory Immunology': 58,
+ 'BIO313 - Evolution': 18,
+ 'BIO315 - Molecular Plant Physiology': 21,
+ 'BIO317 - Advanced Ecology': 10,
+ 'BIO318 - Genetics': 61,
+ 'BIO339/CHM332 - Separation Science and Techniques': 53,
+ 'BIO341 - Biophysics': 1,
+ 'BIO412 - Animal Developmental Biology': 8,
+ 'BIO413 - Big Data in Biology': 8,
+ 'BIO414 - Neurobiology': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 2,
+ 'BIO431/CHM431 - Fluorescence in Biology': 6,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'BIO435 - Infection biology': 7,
+ 'CHM 414 - Transition Metal Chemistry': 1,
+ 'CHM311 - Quantum Chemistry I': 5,
+ 'CHM312 - Physical Organic Chemistry': 17,
+ 'CHM313 - Main Group Chemistry': 9,
+ 'CHM315 - Forensic Science': 58,
+ 'CHM331 - Solid State Chemistry': 5,
+ 'CHM412 - Medicinal Chemistry': 2,
+ 'CHM413 - Bioinorganic Chemistry': 2,
+ 'CHM433 - Organic spectroscopy': 1,
+ 'ECS311 - Solid Earth Geophysics': 8,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'MTH312 - Real Analysis': 1,
+ 'MTH313 - Topology': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'PHY 314 - Mathematical Methods in Physics': 1,
+ 'PHY311 - Classical Mechanics': 2,
+ 'Semester Project': 4}
+
+
+BIO318 - Genetics
+34
+{'BIO311 - Introductory Immunology': 54,
+ 'BIO312 - Biochemistry': 61,
+ 'BIO313 - Evolution': 18,
+ 'BIO315 - Molecular Plant Physiology': 21,
+ 'BIO317 - Advanced Ecology': 9,
+ 'BIO339/CHM332 - Separation Science and Techniques': 46,
+ 'BIO412 - Animal Developmental Biology': 3,
+ 'BIO413 - Big Data in Biology': 1,
+ 'BIO414 - Neurobiology': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 1,
+ 'BIO431/CHM431 - Fluorescence in Biology': 3,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'BIO435 - Infection biology': 1,
+ 'CHM312 - Physical Organic Chemistry': 9,
+ 'CHM313 - Main Group Chemistry': 2,
+ 'CHM315 - Forensic Science': 51,
+ 'CHM331 - Solid State Chemistry': 1,
+ 'CHM412 - Medicinal Chemistry': 3,
+ 'CHM413 - Bioinorganic Chemistry': 3,
+ 'CHM433 - Organic spectroscopy': 2,
+ 'ECS311 - Solid Earth Geophysics': 8,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'MTH312 - Real Analysis': 1,
+ 'MTH313 - Topology': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'PHY 314 - Mathematical Methods in Physics': 1,
+ 'PHY311 - Classical Mechanics': 2,
+ 'Semester Project': 1}
+
+
+CHM311 - Quantum Chemistry I
+35
+{'BIO311 - Introductory Immunology': 2,
+ 'BIO312 - Biochemistry': 5,
+ 'BIO339/CHM332 - Separation Science and Techniques': 8,
+ 'CHM 414 - Transition Metal Chemistry': 2,
+ 'CHM312 - Physical Organic Chemistry': 16,
+ 'CHM313 - Main Group Chemistry': 16,
+ 'CHM315 - Forensic Science': 12,
+ 'CHM331 - Solid State Chemistry': 12,
+ 'CHM411 - Molecular Symmetry and Spectroscopy': 1,
+ 'CHM412 - Medicinal Chemistry': 1,
+ 'CHM413 - Bioinorganic Chemistry': 1,
+ 'CHM432/PHY432 - Materials Science': 2,
+ 'CHM433 - Organic spectroscopy': 2,
+ 'ECS311 - Solid Earth Geophysics': 2,
+ 'PHY 414 - Astrophysics': 1,
+ 'PHY335 - Electronics (Experimental)': 1,
+ 'Semester Project': 2}
+
+
+CHM412 - Medicinal Chemistry
+36
+{'BIO311 - Introductory Immunology': 1,
+ 'BIO312 - Biochemistry': 2,
+ 'BIO318 - Genetics': 3,
+ 'BIO339/CHM332 - Separation Science and Techniques': 3,
+ 'BIO341 - Biophysics': 4,
+ 'BIO412 - Animal Developmental Biology': 10,
+ 'BIO413 - Big Data in Biology': 6,
+ 'BIO414 - Neurobiology': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 4,
+ 'BIO431/CHM431 - Fluorescence in Biology': 11,
+ 'BIO433 - Plant Stress Biology for Sustainable Agriculture': 3,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'BIO435 - Infection biology': 8,
+ 'CHM 414 - Transition Metal Chemistry': 6,
+ 'CHM311 - Quantum Chemistry I': 1,
+ 'CHM315 - Forensic Science': 5,
+ 'CHM411 - Molecular Symmetry and Spectroscopy': 3,
+ 'CHM413 - Bioinorganic Chemistry': 10,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 1,
+ 'CHM432/PHY432 - Materials Science': 5,
+ 'CHM433 - Organic spectroscopy': 7,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'Semester Project': 4}
+
+
+PHY311 - Classical Mechanics
+37
+{'BIO311 - Introductory Immunology': 1,
+ 'BIO312 - Biochemistry': 2,
+ 'BIO318 - Genetics': 2,
+ 'BIO339/CHM332 - Separation Science and Techniques': 2,
+ 'CHM315 - Forensic Science': 6,
+ 'CHM331 - Solid State Chemistry': 1,
+ 'ECS311 - Solid Earth Geophysics': 5,
+ 'MTH311 - Group Theory': 5,
+ 'MTH312 - Real Analysis': 5,
+ 'MTH313 - Topology': 3,
+ 'MTH314 - Linear Algebra': 13,
+ 'MTH331 - Elementary Number Theory': 4,
+ 'PHY 314 - Mathematical Methods in Physics': 21,
+ 'PHY 414 - Astrophysics': 8,
+ 'PHY312 - Electrodynamics': 22,
+ 'PHY313 - Quantum Mechanics -I': 20,
+ 'PHY331 - Electronics (Theory)': 4,
+ 'PHY335 - Electronics (Experimental)': 5}
+
+
+PHY 414 - Astrophysics
+38
+{'CHM311 - Quantum Chemistry I': 1,
+ 'CHM312 - Physical Organic Chemistry': 1,
+ 'CHM313 - Main Group Chemistry': 1,
+ 'CHM315 - Forensic Science': 5,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 2,
+ 'ECS311 - Solid Earth Geophysics': 4,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 2,
+ 'MTH311 - Group Theory': 3,
+ 'MTH312 - Real Analysis': 2,
+ 'MTH313 - Topology': 2,
+ 'MTH314 - Linear Algebra': 4,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'NKN - Quantum Field Theory': 1,
+ 'PHY 314 - Mathematical Methods in Physics': 8,
+ 'PHY311 - Classical Mechanics': 8,
+ 'PHY312 - Electrodynamics': 9,
+ 'PHY313 - Quantum Mechanics -I': 9,
+ 'PHY335 - Electronics (Experimental)': 3,
+ 'PHY413 - Atomic and Molecular Physics': 1,
+ 'PHY415 - Advanced Physics Lab III': 1,
+ 'PHY416 - Experimental Methods in Physics': 4,
+ 'PHY417 - Computational Methods in Physics': 2,
+ 'Semester Project': 3}
+
+
+PHY415 - Advanced Physics Lab III
+39
+{'CHM315 - Forensic Science': 2,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 13,
+ 'CHM432/PHY432 - Materials Science': 1,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'NKN - Quantum Field Theory': 7,
+ 'PHY 414 - Astrophysics': 1,
+ 'PHY331 - Electronics (Theory)': 2,
+ 'PHY335 - Electronics (Experimental)': 1,
+ 'PHY413 - Atomic and Molecular Physics': 10,
+ 'PHY416 - Experimental Methods in Physics': 11,
+ 'PHY417 - Computational Methods in Physics': 13,
+ 'Semester Project': 7}
+
+
+BIO311 - Introductory Immunology
+40
+{'BIO312 - Biochemistry': 58,
+ 'BIO313 - Evolution': 15,
+ 'BIO315 - Molecular Plant Physiology': 20,
+ 'BIO317 - Advanced Ecology': 6,
+ 'BIO318 - Genetics': 54,
+ 'BIO339/CHM332 - Separation Science and Techniques': 43,
+ 'BIO412 - Animal Developmental Biology': 3,
+ 'BIO413 - Big Data in Biology': 3,
+ 'BIO414 - Neurobiology': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 1,
+ 'BIO431/CHM431 - Fluorescence in Biology': 2,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'BIO435 - Infection biology': 2,
+ 'CHM311 - Quantum Chemistry I': 2,
+ 'CHM312 - Physical Organic Chemistry': 11,
+ 'CHM313 - Main Group Chemistry': 3,
+ 'CHM315 - Forensic Science': 47,
+ 'CHM331 - Solid State Chemistry': 3,
+ 'CHM412 - Medicinal Chemistry': 1,
+ 'CHM413 - Bioinorganic Chemistry': 1,
+ 'ECS311 - Solid Earth Geophysics': 4,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'MTH311 - Group Theory': 1,
+ 'MTH312 - Real Analysis': 1,
+ 'MTH313 - Topology': 2,
+ 'MTH314 - Linear Algebra': 1,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'PHY311 - Classical Mechanics': 1,
+ 'Semester Project': 2}
+
+
+BIO413 - Big Data in Biology
+41
+{'BIO311 - Introductory Immunology': 3,
+ 'BIO312 - Biochemistry': 8,
+ 'BIO315 - Molecular Plant Physiology': 1,
+ 'BIO317 - Advanced Ecology': 2,
+ 'BIO318 - Genetics': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 6,
+ 'BIO341 - Biophysics': 7,
+ 'BIO412 - Animal Developmental Biology': 23,
+ 'BIO414 - Neurobiology': 2,
+ 'BIO416/CHM415 - Biophysical Chemistry': 7,
+ 'BIO431/CHM431 - Fluorescence in Biology': 18,
+ 'BIO433 - Plant Stress Biology for Sustainable Agriculture': 5,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'BIO435 - Infection biology': 22,
+ 'CHM315 - Forensic Science': 9,
+ 'CHM412 - Medicinal Chemistry': 6,
+ 'CHM413 - Bioinorganic Chemistry': 2,
+ 'CHM433 - Organic spectroscopy': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'Semester Project': 12}
+
+
+MTH312 - Real Analysis
+42
+{'BIO311 - Introductory Immunology': 1,
+ 'BIO312 - Biochemistry': 1,
+ 'BIO315 - Molecular Plant Physiology': 1,
+ 'BIO317 - Advanced Ecology': 1,
+ 'BIO318 - Genetics': 1,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'CHM315 - Forensic Science': 4,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'MTH311 - Group Theory': 16,
+ 'MTH313 - Topology': 16,
+ 'MTH314 - Linear Algebra': 19,
+ 'MTH331 - Elementary Number Theory': 12,
+ 'PHY 314 - Mathematical Methods in Physics': 3,
+ 'PHY 414 - Astrophysics': 2,
+ 'PHY311 - Classical Mechanics': 5,
+ 'PHY312 - Electrodynamics': 3,
+ 'PHY313 - Quantum Mechanics -I': 3,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'PHY335 - Electronics (Experimental)': 1}
+
+
+MTH313 - Topology
+43
+{'BIO311 - Introductory Immunology': 2,
+ 'BIO312 - Biochemistry': 1,
+ 'BIO317 - Advanced Ecology': 1,
+ 'BIO318 - Genetics': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 1,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'CHM312 - Physical Organic Chemistry': 1,
+ 'CHM315 - Forensic Science': 3,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'MTH311 - Group Theory': 16,
+ 'MTH312 - Real Analysis': 16,
+ 'MTH314 - Linear Algebra': 16,
+ 'MTH331 - Elementary Number Theory': 12,
+ 'PHY 314 - Mathematical Methods in Physics': 1,
+ 'PHY 414 - Astrophysics': 2,
+ 'PHY311 - Classical Mechanics': 3,
+ 'PHY312 - Electrodynamics': 1,
+ 'PHY313 - Quantum Mechanics -I': 1,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'PHY335 - Electronics (Experimental)': 1}
+
+
+CHM411 - Molecular Symmetry and Spectroscopy
+44
+{'BIO339/CHM332 - Separation Science and Techniques': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 1,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'CHM 414 - Transition Metal Chemistry': 9,
+ 'CHM311 - Quantum Chemistry I': 1,
+ 'CHM312 - Physical Organic Chemistry': 2,
+ 'CHM315 - Forensic Science': 1,
+ 'CHM412 - Medicinal Chemistry': 3,
+ 'CHM413 - Bioinorganic Chemistry': 6,
+ 'CHM432/PHY432 - Materials Science': 8,
+ 'CHM433 - Organic spectroscopy': 6,
+ 'ECS 412 - Advanced Mineral Science': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'Semester Project': 6}
+
+
+MTH311 - Group Theory
+45
+{'BIO311 - Introductory Immunology': 1,
+ 'BIO317 - Advanced Ecology': 1,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'CHM315 - Forensic Science': 3,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 1,
+ 'ECS311 - Solid Earth Geophysics': 2,
+ 'MTH 412 - Functional Analysis': 1,
+ 'MTH312 - Real Analysis': 16,
+ 'MTH313 - Topology': 16,
+ 'MTH314 - Linear Algebra': 17,
+ 'MTH331 - Elementary Number Theory': 12,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 1,
+ 'NKN - Quantum Field Theory': 1,
+ 'PHY 314 - Mathematical Methods in Physics': 3,
+ 'PHY 414 - Astrophysics': 3,
+ 'PHY311 - Classical Mechanics': 5,
+ 'PHY312 - Electrodynamics': 3,
+ 'PHY313 - Quantum Mechanics -I': 2,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'PHY335 - Electronics (Experimental)': 1,
+ 'PHY417 - Computational Methods in Physics': 1}
+
+
+CHM331 - Solid State Chemistry
+46
+{'BIO311 - Introductory Immunology': 3,
+ 'BIO312 - Biochemistry': 5,
+ 'BIO318 - Genetics': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 10,
+ 'BIO412 - Animal Developmental Biology': 1,
+ 'CHM311 - Quantum Chemistry I': 12,
+ 'CHM312 - Physical Organic Chemistry': 15,
+ 'CHM313 - Main Group Chemistry': 15,
+ 'CHM315 - Forensic Science': 11,
+ 'ECS311 - Solid Earth Geophysics': 3,
+ 'PHY311 - Classical Mechanics': 1,
+ 'PHY312 - Electrodynamics': 1,
+ 'PHY313 - Quantum Mechanics -I': 1,
+ 'PHY331 - Electronics (Theory)': 1,
+ 'PHY335 - Electronics (Experimental)': 1}
+
+
+MTH 412 - Functional Analysis
+47
+{'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'CHM315 - Forensic Science': 2,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 2,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'MTH311 - Group Theory': 1,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'MTH411 - Fields and Galois Theory': 7,
+ 'MTH413 - Introduction to Algebraic Topology': 8,
+ 'MTH414 - Ordinary Differential Equations': 10,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 9,
+ 'NKN - Quantum Field Theory': 2,
+ 'PHY417 - Computational Methods in Physics': 2,
+ 'Semester Project': 7}
+
+
+BIO433 - Plant Stress Biology for Sustainable Agriculture
+48
+{'BIO313 - Evolution': 1,
+ 'BIO317 - Advanced Ecology': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 1,
+ 'BIO341 - Biophysics': 3,
+ 'BIO412 - Animal Developmental Biology': 9,
+ 'BIO413 - Big Data in Biology': 5,
+ 'BIO416/CHM415 - Biophysical Chemistry': 1,
+ 'BIO431/CHM431 - Fluorescence in Biology': 6,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 1,
+ 'BIO435 - Infection biology': 7,
+ 'CHM315 - Forensic Science': 3,
+ 'CHM412 - Medicinal Chemistry': 3,
+ 'ECS311 - Solid Earth Geophysics': 1,
+ 'Semester Project': 3}
+
+
+PHY313 - Quantum Mechanics -I
+49
+{'CHM315 - Forensic Science': 3,
+ 'CHM331 - Solid State Chemistry': 1,
+ 'ECS311 - Solid Earth Geophysics': 4,
+ 'MTH311 - Group Theory': 2,
+ 'MTH312 - Real Analysis': 3,
+ 'MTH313 - Topology': 1,
+ 'MTH314 - Linear Algebra': 10,
+ 'MTH331 - Elementary Number Theory': 3,
+ 'PHY 314 - Mathematical Methods in Physics': 19,
+ 'PHY 414 - Astrophysics': 9,
+ 'PHY311 - Classical Mechanics': 20,
+ 'PHY312 - Electrodynamics': 21,
+ 'PHY331 - Electronics (Theory)': 4,
+ 'PHY335 - Electronics (Experimental)': 6}
+
+
+PHY312 - Electrodynamics
+50
+{'CHM315 - Forensic Science': 5,
+ 'CHM331 - Solid State Chemistry': 1,
+ 'CHM433 - Organic spectroscopy': 1,
+ 'ECS311 - Solid Earth Geophysics': 6,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'MTH311 - Group Theory': 3,
+ 'MTH312 - Real Analysis': 3,
+ 'MTH313 - Topology': 1,
+ 'MTH314 - Linear Algebra': 11,
+ 'MTH331 - Elementary Number Theory': 3,
+ 'PHY 314 - Mathematical Methods in Physics': 21,
+ 'PHY 414 - Astrophysics': 9,
+ 'PHY311 - Classical Mechanics': 22,
+ 'PHY313 - Quantum Mechanics -I': 21,
+ 'PHY331 - Electronics (Theory)': 4,
+ 'PHY335 - Electronics (Experimental)': 6,
+ 'PHY417 - Computational Methods in Physics': 1}
+
+
+BIO431/CHM431 - Fluorescence in Biology
+51
+{'BIO311 - Introductory Immunology': 2,
+ 'BIO312 - Biochemistry': 6,
+ 'BIO313 - Evolution': 1,
+ 'BIO315 - Molecular Plant Physiology': 1,
+ 'BIO317 - Advanced Ecology': 2,
+ 'BIO318 - Genetics': 3,
+ 'BIO339/CHM332 - Separation Science and Techniques': 3,
+ 'BIO341 - Biophysics': 7,
+ 'BIO412 - Animal Developmental Biology': 23,
+ 'BIO413 - Big Data in Biology': 18,
+ 'BIO414 - Neurobiology': 2,
+ 'BIO416/CHM415 - Biophysical Chemistry': 8,
+ 'BIO433 - Plant Stress Biology for Sustainable Agriculture': 6,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'BIO435 - Infection biology': 22,
+ 'CHM315 - Forensic Science': 6,
+ 'CHM412 - Medicinal Chemistry': 11,
+ 'CHM413 - Bioinorganic Chemistry': 4,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 1,
+ 'CHM433 - Organic spectroscopy': 3,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'Semester Project': 8}
+
+
+ECS411 - Atmospheric thermodynamics and Cloud physics
+52
+{'BIO311 - Introductory Immunology': 1,
+ 'BIO312 - Biochemistry': 1,
+ 'BIO318 - Genetics': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 1,
+ 'BIO413 - Big Data in Biology': 1,
+ 'BIO414 - Neurobiology': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 1,
+ 'BIO431/CHM431 - Fluorescence in Biology': 1,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'BIO435 - Infection biology': 1,
+ 'CHM312 - Physical Organic Chemistry': 1,
+ 'CHM315 - Forensic Science': 6,
+ 'CHM411 - Molecular Symmetry and Spectroscopy': 1,
+ 'CHM412 - Medicinal Chemistry': 1,
+ 'CHM413 - Bioinorganic Chemistry': 1,
+ 'CHM416/PHY411 - Advanced Statistical Mechanics': 1,
+ 'CHM432/PHY432 - Materials Science': 1,
+ 'CHM433 - Organic spectroscopy': 1,
+ 'ECS 412 - Advanced Mineral Science': 2,
+ 'ECS311 - Solid Earth Geophysics': 4,
+ 'MTH 412 - Functional Analysis': 1,
+ 'MTH414 - Ordinary Differential Equations': 1,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 1,
+ 'PHY 414 - Astrophysics': 2,
+ 'PHY312 - Electrodynamics': 1,
+ 'PHY415 - Advanced Physics Lab III': 1,
+ 'PHY416 - Experimental Methods in Physics': 2,
+ 'PHY417 - Computational Methods in Physics': 2,
+ 'Semester Project': 6}
+
+
+CHM416/PHY411 - Advanced Statistical Mechanics
+53
+{'BIO341 - Biophysics': 3,
+ 'BIO414 - Neurobiology': 1,
+ 'BIO416/CHM415 - Biophysical Chemistry': 1,
+ 'BIO431/CHM431 - Fluorescence in Biology': 1,
+ 'CHM315 - Forensic Science': 3,
+ 'CHM412 - Medicinal Chemistry': 1,
+ 'CHM413 - Bioinorganic Chemistry': 1,
+ 'CHM432/PHY432 - Materials Science': 1,
+ 'CHM433 - Organic spectroscopy': 1,
+ 'ECS 412 - Advanced Mineral Science': 1,
+ 'ECS311 - Solid Earth Geophysics': 2,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'MTH 412 - Functional Analysis': 2,
+ 'MTH311 - Group Theory': 1,
+ 'MTH314 - Linear Algebra': 1,
+ 'MTH414 - Ordinary Differential Equations': 2,
+ 'MTH415 - Differential Forms in Euclidean Spaces': 1,
+ 'NKN - Quantum Field Theory': 12,
+ 'PHY 414 - Astrophysics': 2,
+ 'PHY331 - Electronics (Theory)': 3,
+ 'PHY335 - Electronics (Experimental)': 1,
+ 'PHY413 - Atomic and Molecular Physics': 17,
+ 'PHY415 - Advanced Physics Lab III': 13,
+ 'PHY416 - Experimental Methods in Physics': 14,
+ 'PHY417 - Computational Methods in Physics': 25,
+ 'Semester Project': 14}
+
+
+BIO435 - Infection biology
+54
+{'BIO311 - Introductory Immunology': 2,
+ 'BIO312 - Biochemistry': 7,
+ 'BIO313 - Evolution': 1,
+ 'BIO315 - Molecular Plant Physiology': 1,
+ 'BIO317 - Advanced Ecology': 2,
+ 'BIO318 - Genetics': 1,
+ 'BIO339/CHM332 - Separation Science and Techniques': 6,
+ 'BIO341 - Biophysics': 7,
+ 'BIO412 - Animal Developmental Biology': 25,
+ 'BIO413 - Big Data in Biology': 22,
+ 'BIO414 - Neurobiology': 3,
+ 'BIO416/CHM415 - Biophysical Chemistry': 7,
+ 'BIO431/CHM431 - Fluorescence in Biology': 22,
+ 'BIO433 - Plant Stress Biology for Sustainable Agriculture': 7,
+ 'BIO434/CHM434/CSA434/ECS434/PHY434 - Data Science I': 2,
+ 'CHM315 - Forensic Science': 9,
+ 'CHM412 - Medicinal Chemistry': 8,
+ 'CHM413 - Bioinorganic Chemistry': 1,
+ 'ECS411 - Atmospheric thermodynamics and Cloud physics': 1,
+ 'MTH331 - Elementary Number Theory': 1,
+ 'Semester Project': 11}
