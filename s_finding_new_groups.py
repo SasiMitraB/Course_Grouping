@@ -106,8 +106,6 @@ for course_name in data["course_counts"].keys():
 with open("s_course_groups.json", "w", encoding="utf-8") as f:
     json.dump(group, f, indent=4)
 
-print("Course groups saved to s_course_groups.json.")
-
 # 1. Calculating the number of students who agree with the grouping
 result = [student.check_if_group_works(group) for student in student_objects]
 metric = sum(result)
@@ -134,7 +132,4 @@ print("The total number of courses in the grouping is " + str(total_courses))
 # Debugging: Print the clashed courses and their frequencies
 print("\nClashed groups and frequencies:")
 pprint.pprint(clashed_groups)
-
-# Print and save the final groupings
-print("\nFinal groupings:")
-pprint.pprint(group)
+print("\nCourse groups saved to s_course_groups.json.")
