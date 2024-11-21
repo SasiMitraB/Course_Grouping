@@ -37,42 +37,20 @@ Usage:
 """
 import json
 import pandas as pd
-from utils.obj import Student
+from utils.parser import excel_parsing
+
+# Excel file location
+EXCEL_FILE = "Course_preference_survey_(Responses).xlsx"
 
 # Read responses from Excel
-responses = pd.read_excel("Course_preference_survey_(Responses).xlsx")
+responses = pd.read_excel(EXCEL_FILE)
 emails = responses['Email Address']
 choices = responses['What are all the courses you would like to take in Monsoon 2022? (choose courses worth 18-25 credits only)']
 
 # Define a set of courses to exclude from analysis
 excluded_courses = {"BIO339/639", "BIO416/716"}
 
-# Create a list to store all student objects
-student_objects = []
-
-# Iterate over each email and corresponding course choices
-for email, course_string in zip(emails, choices):
-    # Split the course string into individual courses
-    raw_courses = course_string.split(",")
-    
-    # Clean and filter the courses, removing extra spaces and excluded courses
-    course_list = []
-    for course in raw_courses:
-        cleaned_course = course.strip()  # Remove leading and trailing spaces
-        if cleaned_course not in excluded_courses:  # Exclude certain courses
-            course_list.append(cleaned_course)
-
-    # Create a new Student object and add it to the list
-    student = Student(email, course_list)
-    student_objects.append(student)
-
-# Count the total number of students enrolled in each course
-course_counts = {}
-for student in student_objects:
-    for course in student.course_list:
-        if course not in course_counts:
-            course_counts[course] = 0
-        course_counts[course] += 1  # Increment the count for this course
+student_objects, course_counts = excel_parsing(EXCEL_FILE, 1, 2, excluded_courses)
 
 # Generate unique indices for courses
 course_index = {}
